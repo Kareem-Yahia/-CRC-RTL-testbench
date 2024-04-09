@@ -1,0 +1,98 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+!s110 1709163568
+V5S;O:KT4:Tbn>=WfjW[Q;0
+04 6 4 work CRC_TB fast 0
+=1-7c4d8f057455-65dfc430-2f5-2c9c
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vCRC
+Z2 !s110 1709163565
+!i10b 1
+!s100 ]S^JzcDH`eE4LU:Sn7P:33
+I<T<K:;dN[L>Dj6DS]MgWN0
+Z3 dD:/ASU/Digital_IC_STUDY/Temsah/Assignments/Verilog_Assignment_Files/Assignment 6 (CRC)
+w1709070195
+8CRC.v
+FCRC.v
+!i122 43
+L0 1 65
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1709163564.000000
+Z7 !s107 CRC_TB.v|CRC.v|
+Z8 !s90 -reportprogress|300|CRC.v|CRC_TB.v|+cover|
+!i113 0
+Z9 !s102 +cover
+Z10 o+cover -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@c@r@c
+vCRC_TB
+R2
+!i10b 1
+!s100 0?=j4U4jfk]PkOHdT[G@k3
+IIQY>3h^4R=DVdT06e^kcb3
+R3
+w1709163561
+8CRC_TB.v
+FCRC_TB.v
+!i122 43
+L0 2 98
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R1
+n@c@r@c_@t@b
